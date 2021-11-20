@@ -37,8 +37,8 @@ First steps with java
 
 This repository is my first steps with Java, it contain: 
 
-[Ordering methods](https://github.com/VitorDietrich-Coder/Exercicio1.java/blob/main/Exercicio1.java)
+[Ordering methods](https://github.com/VitorDietrich-Coder/Exercicio1.java/blob/main/Metodos-de-Ordenacao)
 
-[Quickfind method](https://github.com/VitorDietrich-Coder/Exercicio2.java/blob/main/Exercicio2.java)
+[Quickfind method](https://github.com/VitorDietrich-Coder/Exercicio2.java/blob/main/Metodos-de-Ordenacao)
 
 
